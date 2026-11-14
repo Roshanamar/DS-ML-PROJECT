@@ -1,3 +1,0 @@
-add search button
-do facebook integration
-bug fix
